@@ -1,6 +1,7 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+import ThemeToggleButton from './toggletheme.svelte';
 ---
 
 <header>
@@ -21,9 +22,9 @@ import { SITE_TITLE } from '../consts';
 					></path></svg
 				>
 			</a>
-		</div>
-		<div class="theme-toggle-container">
-			<toggletheme client:load />
+			<div class="theme-toggle-container">
+				<ThemeToggleButton client:load />
+			</div>
 		</div>
 	</nav>
 </header>
