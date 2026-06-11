@@ -1,3 +1,7 @@
+# 關於 2twu-web
+這個網頁是用來儲存我的學習記錄與作品展示
+網頁內容為開源需要的話可以自行取用，希望這裡能夠為你帶來些幫助
+
 # Astro Starter Kit: Blog
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
